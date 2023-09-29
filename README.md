@@ -2,7 +2,7 @@
 
 ## Acerca de
 
-ReTradeX es un proyecto de Anuar. Este proyecto tiene como objetivo [breve descripción de lo que hace el proyecto].
+ReTradeX es un proyecto de Anuar. 
 
 ## Autor
 
